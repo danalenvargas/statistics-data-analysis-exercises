@@ -1,4 +1,4 @@
-# Exercises from edX's Foundations of Data Analysis: Statistics Using R course
+## Exercises from edX's Foundations of Data Analysis: Statistics Using R course
 
 These are my solutions to the exercises from edX's Foundations of Data Analysis: Statistics Using R course [Part 1][1] and [Part 2][2], taught by Michael J. Mahometa from University of Texas at Austin
 
